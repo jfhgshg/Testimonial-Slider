@@ -1,8 +1,8 @@
 const reviews = [
   {
     id: 1,
-    name: "Anuja Kashikar",
-    job: "Shaku's Friend",
+    name: "Anuja",
+    job: "Software Developer",
     image: "https://avatars.githubusercontent.com/u/130148234?v=4",
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
@@ -32,6 +32,13 @@ const reviews = [
     name: "Aritra Biswas",
     job: "Data Analyst",
     image: "https://avatars.githubusercontent.com/u/93366359?v=4",
+    text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
+  },
+  {
+    id: 5,
+    name: "Amruta",
+    job: "Data Analyst",
+    image: "https://avatars.githubusercontent.com/u/59449606?s=400&u=75bd0990f21e3b37589c495114b4caf41d6dcafa&v=4",
     text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
   },
 ];

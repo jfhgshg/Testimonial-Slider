@@ -16,7 +16,7 @@ const Card = (props) => {
       
       <div className='text-center mt-7'>
         <p className='tracking-wider font-bold text-2xl capitalize'>{review.name}</p>
-        <p className='text-violet-300 uppercase text-sm'>{review.job}</p>
+        <p className='text-violet-800 uppercase text-sm'>{review.job}</p>
       </div>
 
 
